@@ -1,7 +1,13 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I’m a Business Information Systems graduate with a background in Computer Science and hands-on experience in software testing, web applications, and enterprise systems. I enjoy solving problems, improving system performance, and turning complex ideas into simple solutions. Skilled in Java, Python, SQL, AWS, and Power BI, I bring a mix of development and analytical thinking. I’ve worked in Agile teams, contributed to testing and debugging, and supported real-world applications. Currently based in Adelaide, I’m focused on building practical, scalable solutions and continuously learning new technologies to grow as a developer and analyst in the IT industry.
+I am an Adelaide-based IT Support professional with a Master of Business Information Systems from Torrens University Australia and a
+Bachelor’s in Computer Science Engineering. I have one year of enterprise IT support experience at Cognizant Technology Solutions in
+India, where I provided Level 1 support, troubleshot Windows, hardware, and network issues, and managed user accounts and access
+using ITSM processes. I am comfortable with JIRA, Active Directory, Microsoft 365, Windows 10/11, Exchange, and Outlook, and I am
+AWS Certified (Cloud Architecting and Cloud Foundations). I stay calm under pressure, communicate clearly with non-technical users,
+and follow SLA and ITIL practices. I am looking for a permanent IT Support / Service Desk role in Adelaide where I can contribute
+from day one and grow long-term.
 
 
 ## 🌐 Socials:
